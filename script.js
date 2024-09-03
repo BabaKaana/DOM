@@ -10,7 +10,6 @@ button.onclick = function()
    h1.style.color = "purple";
    h1.style.fontSize = "100px";
    h1.style.textAlign = "center";
-   h1.style.paddingTop = "20px";
    document.querySelector("button").style.visibility = "hidden";
 
 };
